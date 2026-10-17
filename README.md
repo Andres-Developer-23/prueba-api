@@ -67,7 +67,7 @@ prueba-api/
 ## ☁️ Despliegue
 
 Desplegada en **Render** vía Blueprint (`render.yaml`):
-https://prueba-api-xxxx.onrender.com
+https://prueba-api-4bzf.onrender.com
 
 > ⚠️ Los datos se guardan **en memoria**: se pierden al reiniciar o redesplegar.
 > En el free tier la app se duerme tras ~15 min de inactividad (~50 s en despertar).
